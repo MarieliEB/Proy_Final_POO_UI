@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="BaulDeLosRecuerdosUI.tl.ListarCompositoresController">
+   <children>
+      <Label layoutX="196.0" layoutY="31.0" text="El Baúl de los Recuerdos">
+         <font>
+            <Font name="Elephant" size="18.0" />
+         </font>
+      </Label>
+      <Pane layoutX="56.0" layoutY="94.0" prefHeight="282.0" prefWidth="507.0" style="-fx-background-color: E6EAE8; -fx-background-radius: 15;">
+         <children>
+            <TableView layoutX="65.0" layoutY="60.0" prefHeight="186.0" prefWidth="389.0">
+              <columns>
+                <TableColumn prefWidth="75.0" text="Nombre" />
+                <TableColumn prefWidth="75.0" text="Apellido" />
+                  <TableColumn prefWidth="75.0" text="País" />
+                  <TableColumn prefWidth="75.0" text="Edad" />
+                  <TableColumn prefWidth="88.0" text="Modificar" />
+              </columns>
+            </TableView>
+            <Label layoutX="65.0" layoutY="29.0" text="Buscar" />
+            <TextField layoutX="123.0" layoutY="25.0" />
+            <Button layoutX="331.0" layoutY="25.0" mnemonicParsing="false" text="Agregar compositor" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

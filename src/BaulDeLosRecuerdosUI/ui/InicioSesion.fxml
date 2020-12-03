@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.web.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+
+<Pane id="InicioDeSesion" fx:id="pInicioDeSesion" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: ffff;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="BaulDeLosRecuerdosUI.tl.InicioSesionController">
+   <children>
+      <Label layoutX="179.0" layoutY="50.0" prefHeight="32.0" prefWidth="243.0" text="El Baúl de los Recuerdos">
+         <font>
+            <Font name="Elephant" size="18.0" />
+         </font>
+      </Label>
+      <Pane layoutX="179.0" layoutY="107.0" prefHeight="169.0" prefWidth="229.0" style="-fx-border-radius: 15; -fx-background-color: E6EAE8;">
+         <children>
+            <Label layoutX="63.0" layoutY="14.0" text="Nombre de usuario" />
+            <Button fx:id="btnIngresar" layoutX="85.0" layoutY="128.0" mnemonicParsing="false" onAction="#Ingresar" text="Ingresar" />
+            <TextField fx:id="txtNombreUsuario" layoutX="40.0" layoutY="37.0" />
+            <TextField fx:id="txtContrasenia" layoutX="40.0" layoutY="93.0" />
+            <Label layoutX="84.0" layoutY="69.0" text="Contraseña" />
+         </children>
+      </Pane>
+      <Label layoutX="251.0" layoutY="287.0" text="Aún no tienes cuenta?">
+         <font>
+            <Font size="10.0" />
+         </font>
+      </Label>
+      <Button fx:id="btnRegistrarme" layoutX="261.0" layoutY="309.0" mnemonicParsing="false" onAction="#obtenerFormularioRegistro" text="Registrarme" />
+   </children>
+</Pane>

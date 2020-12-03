@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="BaulDeLosRecuerdosUI.tl.ListaDeCancionesController">
+   <children>
+      <Label layoutX="187.0" layoutY="35.0" text="El Baúl de los Recuerdos">
+         <font>
+            <Font name="Elephant" size="18.0" />
+         </font>
+      </Label>
+      <Pane layoutX="24.0" layoutY="69.0" prefHeight="308.0" prefWidth="552.0" style="-fx-background-color: E6EAE8; -fx-background-radius: 15;">
+         <children>
+            <TableView layoutX="13.0" layoutY="61.0" prefHeight="226.0" prefWidth="526.0">
+              <columns>
+                <TableColumn prefWidth="62.0" text="Género" />
+                <TableColumn prefWidth="65.0" text="Artista" />
+                  <TableColumn prefWidth="78.0" text="Compositor" />
+                  <TableColumn prefWidth="135.0" text="Fecha Lanzamiento" />
+                  <TableColumn prefWidth="83.0" text="Álbum" />
+                  <TableColumn prefWidth="101.0" text="Comprar canción" />
+              </columns>
+            </TableView>
+            <Button fx:id="txtAgregarCancion" layoutX="435.0" layoutY="26.0" mnemonicParsing="false" onAction="#MostrarFormularioAgregarCancion" text="Agregar canción" />
+            <TextField fx:id="txtBuscarCancion" layoutX="57.0" layoutY="26.0" onAction="#BuscarCancion" prefHeight="25.0" prefWidth="255.0" />
+            <Label layoutX="13.0" layoutY="30.0" text="Buscar" />
+         </children></Pane>
+   </children>
+</AnchorPane>
