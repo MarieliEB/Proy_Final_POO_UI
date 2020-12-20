@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mssql-jdbc-8.2.2.jre11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Drivers SqlServer-20201209/Drivers sql server-20201116 (1)/mssql-jdbc-8.2.2.jre11.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Drivers SqlServer-20201209/Drivers sql server-20201116 (1)/mssql-jdbc-8.2.2.jre13.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Drivers SqlServer-20201209/Drivers sql server-20201116 (1)/mssql-jdbc-8.2.2.jre8.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Drivers SqlServer-20201209/Drivers sql server-20201116 (1)/sqljdbc42.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

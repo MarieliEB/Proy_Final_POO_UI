@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BibliotecaMusical">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BaulDeLosRecuerdos/out/artifacts/BibliotecaMusical_jar/BibliotecaMusical.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
