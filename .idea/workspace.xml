@@ -2,8 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Eli_KS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ModelTables/ModelTableAlbum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ModelTables/ModelTableArtistas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ModelTables/ModelTableCanciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ModelTables/ModelTableCompositores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ModelTables/ModelTableGenero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyFinalPOOUI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProyFinalPOOUI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/tl/InicioSesionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/tl/ListaArtistasController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/tl/ListaDeCancionesController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/tl/ListaDeReproduccionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/tl/ListarAlbunesController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/tl/ListarCompositoresController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/tl/ListarGenerosController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/tl/RegistrarAlbumController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/tl/RegistrarArtistaController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/tl/RegistrarCancionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/tl/RegistrarCompositorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/tl/RegistrarGeneroController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/tl/RegristroUsuariosController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/ui/ListarGeneros.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/ui/ListarGeneros.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/ui/RegistrarAlbum.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/ui/RegistrarAlbum.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/ui/RegistrarArtista.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/ui/RegistrarArtista.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/ui/RegistrarCancion.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/ui/RegistrarCancion.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/ui/RegistrarGenero.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/ui/RegistrarGenero.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/ui/RegistroUsuarios.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyFinalPOOUI/BaulDeLosRecuerdosUI/ui/RegistroUsuarios.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarAlbunesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarAlbunesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarCompositoresController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarCompositoresController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarGenerosController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarGenerosController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarAlbumController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarAlbumController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarArtistaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarArtistaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarCancionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarCancionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarGeneroController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarGeneroController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegristroUsuariosController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegristroUsuariosController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListaArtistas.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListaArtistas.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListaDeCanciones.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListaDeCanciones.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarAlbunes.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarAlbunes.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarCompositores.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarCompositores.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarGeneros.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarGeneros.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarAlbum.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarAlbum.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarArtista.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarArtista.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarCancion.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarCancion.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarGenero.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarGenero.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistroUsuarios.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistroUsuarios.fxml" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,97 +104,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListaArtistas.fxml">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarGeneros.fxml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-            </state>
-          </provider>
-          <provider editor-type-id="JavaFX-Scene-Builder" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarCompositor.fxml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-          <provider editor-type-id="JavaFX-Scene-Builder" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarCompositores.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="391">
+              <caret line="23" column="45" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="45" />
             </state>
           </provider>
           <provider editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/InicioSesion.fxml">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="24" column="107" selection-start-line="24" selection-start-column="107" selection-end-line="24" selection-end-column="107" />
+        <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarAlbunes.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="25" column="49" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="49" />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarAlbunesController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="64" column="26" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1294#1295#0" expanded="true" />
+                <element signature="e#1339#1340#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ModelTables/ModelTableAlbum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+              <folding>
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#703#704#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#779#780#0" expanded="true" />
+                <element signature="e#817#818#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarCompositoresController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarCompositorController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarGenerosController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarGeneroController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListaArtistasController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            <state relative-caret-position="391">
+              <caret line="23" column="66" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -180,21 +200,33 @@
         <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/InicioSesion.fxml" />
         <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/InicioSesionController.java" />
         <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistroUsuarios.fxml" />
-        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegristroUsuariosController.java" />
         <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/IngresoCodigoVerificacion.fxml" />
         <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ModificarContrasenia.fxml" />
         <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListaDeCanciones.fxml" />
         <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListaDeCancionesController.java" />
-        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarCancion.fxml" />
         <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarAlbum.fxml" />
-        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarAlbunes.fxml" />
         <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListaDeReproduccion.fxml" />
         <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarArtista.fxml" />
         <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListaArtistas.fxml" />
-        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarGenero.fxml" />
         <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarGeneros.fxml" />
         <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarCompositor.fxml" />
         <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarCompositores.fxml" />
+        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ModelTables/ModelTableGenero.java" />
+        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarGenerosController.java" />
+        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarGenero.fxml" />
+        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegristroUsuariosController.java" />
+        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarArtistaController.java" />
+        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarGeneroController.java" />
+        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarAlbumController.java" />
+        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarCancionController.java" />
+        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarCancion.fxml" />
+        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ModelTables/ModelTableCompositores.java" />
+        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarCompositoresController.java" />
+        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ModelTables/ModelTableArtistas.java" />
+        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ModelTables/ModelTableCanciones.java" />
+        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarAlbunes.fxml" />
+        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ModelTables/ModelTableAlbum.java" />
+        <option value="$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarAlbunesController.java" />
       </list>
     </option>
   </component>
@@ -215,6 +247,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,11 +255,47 @@
               <item name="ProyFinalPOOUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProyFinalPOOUI" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ProyFinalPOOUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProyFinalPOOUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProyFinalPOOUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProyFinalPOOUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BaulDeLosRecuerdosUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProyFinalPOOUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProyFinalPOOUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BaulDeLosRecuerdosUI" type="462c0819:PsiDirectoryNode" />
+              <item name="tl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProyFinalPOOUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProyFinalPOOUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BaulDeLosRecuerdosUI" type="462c0819:PsiDirectoryNode" />
+              <item name="tl" type="462c0819:PsiDirectoryNode" />
+              <item name="ModelTables" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProyFinalPOOUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProyFinalPOOUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BaulDeLosRecuerdosUI" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProyFinalPOOUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,11 +307,11 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608506777912" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608616426702" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Drivers SqlServer-20201209/Drivers sql server-20201116 (1)/sqljdbc42.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BaulDeLosRecuerdos/out/artifacts/BibliotecaMusical_jar/BibliotecaMusical.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -356,8 +425,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1612" height="876" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.1984536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.20103092" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -366,7 +436,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20995963" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20995963" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -377,7 +447,7 @@
       <window_info anchor="bottom" id="Changes" order="10" />
       <window_info anchor="bottom" id="Profiler" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32974428" />
       <window_info anchor="bottom" id="Terminal" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -392,39 +462,39 @@
       <window_info anchor="right" id="Theme Preview" order="10" />
     </layout>
     <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" sideWeight="0.6703755" visible="true" weight="0.2525773" />
-      <window_info id="Structure" order="5" weight="0.25" />
-      <window_info id="Favorites" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32962447" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Application Servers" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Problems" order="10" />
-      <window_info anchor="bottom" id="Changes" order="11" />
-      <window_info anchor="bottom" id="Profiler" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" />
-      <window_info anchor="right" id="Maven" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
-      <window_info anchor="right" id="JetGradle" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="Palette" order="9" />
-      <window_info anchor="right" id="Maven Projects" order="10" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.20103092" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20995963" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Problems" order="9" />
+      <window_info anchor="bottom" id="Changes" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JetGradle" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
@@ -453,80 +523,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegristroUsuariosController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistroUsuarios.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="73" lean-forward="true" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListaDeCancionesController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListaDeCanciones.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="29" column="89" selection-start-line="29" selection-start-column="89" selection-end-line="29" selection-end-column="89" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarCancion.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarCancionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarAlbumController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarAlbum.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarAlbunesController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarAlbunes.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListaDeReproduccionController.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -551,70 +553,26 @@
       </provider>
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarArtistaController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListaArtistas.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarArtista.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/InicioSesion.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="107" selection-start-line="24" selection-start-column="107" selection-end-line="24" selection-end-column="107" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarGenero.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarGeneros.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarCompositor.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarCompositoresController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarCompositorController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarGenerosController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarGeneroController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -625,29 +583,266 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarCompositores.fxml">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_261/javafx-src.zip!/javafx/fxml/Initializable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="255">
+          <caret line="39" column="3" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarGeneros.fxml">
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistroUsuarios.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
         </state>
       </provider>
       <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/InicioSesion.fxml">
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarGenero.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegristroUsuariosController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="85" column="5" lean-forward="true" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarArtista.fxml">
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="107" selection-start-line="24" selection-start-column="107" selection-end-line="24" selection-end-column="107" />
+        <state relative-caret-position="-1">
+          <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
         </state>
       </provider>
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListaArtistas.fxml">
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarCompositor.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarAlbum.fxml">
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="425">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="39" />
         </state>
       </provider>
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarAlbumController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="43" column="18" selection-start-line="40" selection-start-column="7" selection-end-line="43" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarCancionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="method#inicializarArtista#0;class#RegistrarCancionController#0" />
+            <element signature="method#inicializarArtista#1;class#RegistrarCancionController#0" />
+            <element signature="method#inicializarGeneros#0;class#RegistrarCancionController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/RegistrarCancion.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="65" lean-forward="true" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarArtistaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/RegistrarGeneroController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ModelTables/ModelTableGenero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ModelTables/ModelTableCanciones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="44" lean-forward="true" selection-start-column="44" selection-end-column="44" />
+          <folding>
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#1114#1115#0" expanded="true" />
+            <element signature="e#1146#1147#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+            <element signature="e#1216#1217#0" expanded="true" />
+            <element signature="e#1250#1251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ModelTables/ModelTableArtistas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding>
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ModelTables/ModelTableCompositores.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListaDeCanciones.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarGenerosController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="61" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarCompositores.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarCompositoresController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="66" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/ui/ListarAlbunes.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ModelTables/ModelTableAlbum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaulDeLosRecuerdosUI/tl/ListarAlbunesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="64" column="26" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1294#1295#0" expanded="true" />
+            <element signature="e#1339#1340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -660,7 +855,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -708,7 +902,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -716,6 +909,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>BibliotecaMusical</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

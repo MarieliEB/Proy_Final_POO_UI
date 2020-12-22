@@ -18,11 +18,11 @@
          <children>
             <TableView layoutX="13.0" layoutY="61.0" prefHeight="226.0" prefWidth="526.0">
               <columns>
-                <TableColumn prefWidth="62.0" text="Género" />
-                <TableColumn prefWidth="65.0" text="Artista" />
-                  <TableColumn prefWidth="78.0" text="Compositor" />
-                  <TableColumn prefWidth="135.0" text="Fecha Lanzamiento" />
-                  <TableColumn prefWidth="83.0" text="Álbum" />
+                <TableColumn fx:id="colGenero" prefWidth="62.0" text="Género" />
+                <TableColumn fx:id="colArtista" prefWidth="65.0" text="Artista" />
+                  <TableColumn fx:id="colCompositor" prefWidth="78.0" text="Compositor" />
+                  <TableColumn fx:id="colFechaLanzamiento" prefWidth="135.0" text="Fecha Lanzamiento" />
+                  <TableColumn fx:id="colAlbum" prefWidth="83.0" text="Álbum" />
                   <TableColumn prefWidth="101.0" text="Comprar canción" />
               </columns>
             </TableView>

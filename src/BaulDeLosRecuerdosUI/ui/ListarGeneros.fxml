@@ -7,7 +7,6 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-
 <AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="BaulDeLosRecuerdosUI.tl.ListarGenerosController">
    <children>
       <Label layoutX="187.0" layoutY="37.0" text="El Baúl de los Recuerdos">
@@ -17,16 +16,16 @@
       </Label>
       <Pane layoutX="109.0" layoutY="90.0" prefHeight="270.0" prefWidth="382.0" style="-fx-background-color: E6EAE8; -fx-background-radius: 15;">
          <children>
-            <TableView layoutX="35.0" layoutY="56.0" prefHeight="200.0" prefWidth="318.0">
+            <TableView fx:id="tblGeneros" layoutX="35.0" layoutY="56.0" prefHeight="200.0" prefWidth="318.0">
               <columns>
-                <TableColumn prefWidth="102.0" text="Nombre" />
-                <TableColumn prefWidth="127.0" text="Descripción" />
-                  <TableColumn prefWidth="88.0" text="Modificar" />
+                <TableColumn fx:id="colNombre" prefWidth="102.0" text="Nombre" />
+                <TableColumn fx:id="colDescripcion" prefWidth="127.0" text="Descripción" />
+                  <TableColumn fx:id="colModificar" prefWidth="88.0" text="Modificar" />
               </columns>
             </TableView>
             <Label layoutX="35.0" layoutY="28.0" text="Buscar" />
             <TextField layoutX="76.0" layoutY="24.0" />
-            <Button layoutX="253.0" layoutY="24.0" mnemonicParsing="false" text="Agregar género" />
+            <Button fx:id="btnAgregarGenero" layoutX="253.0" layoutY="24.0" mnemonicParsing="false" onAction="#AgregarGenero" text="Agregar género" />
          </children>
       </Pane>
    </children>

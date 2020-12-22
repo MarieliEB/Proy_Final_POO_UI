@@ -7,8 +7,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-
-<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="BaulDeLosRecuerdosUI.tl.RegistrarGeneroController">
+<AnchorPane fx:id="RegistarGenero" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="BaulDeLosRecuerdosUI.tl.RegistrarGeneroController">
    <children>
       <Label layoutX="187.0" layoutY="32.0" text="El Baúl de los Recuerdos">
          <font>
@@ -19,10 +18,10 @@
          <children>
             <Label layoutX="96.0" layoutY="14.0" text="Nombre" />
             <Label layoutX="90.0" layoutY="73.0" text="Descripción" />
-            <TextField layoutX="43.0" layoutY="40.0" />
-            <TextArea layoutX="46.0" layoutY="99.0" prefHeight="82.0" prefWidth="149.0" />
+            <TextField fx:id="txtNombre" layoutX="43.0" layoutY="40.0" />
+            <TextArea fx:id="txtDescripcion" layoutX="46.0" layoutY="99.0" prefHeight="82.0" prefWidth="149.0" />
          </children>
       </Pane>
-      <Button layoutX="251.0" layoutY="314.0" mnemonicParsing="false" text="Agregar género" />
+      <Button fx:id="AgregarGenero" layoutX="251.0" layoutY="314.0" mnemonicParsing="false" onAction="#RegistrarGenero" text="Agregar género" />
    </children>
 </AnchorPane>

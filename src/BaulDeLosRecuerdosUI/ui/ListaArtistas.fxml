@@ -7,7 +7,6 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-
 <AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="BaulDeLosRecuerdosUI.tl.ListaArtistasController">
    <children>
       <Label layoutX="187.0" layoutY="30.0" text="El Baúl de los Recuerdos">
@@ -19,15 +18,15 @@
          <children>
             <TableView layoutX="64.0" layoutY="64.0" prefHeight="232.0" prefWidth="392.0">
               <columns>
-                <TableColumn prefWidth="113.0" text="Nombre Artístico" />
-                <TableColumn prefWidth="53.0" text="Edad" />
-                  <TableColumn prefWidth="62.0" text="Género" />
-                  <TableColumn prefWidth="97.0" text="Descripción" />
+                <TableColumn fx:id="colNombreArtistico" prefWidth="113.0" text="Nombre Artístico" />
+                <TableColumn fx:id="collEdad" prefWidth="53.0" text="Edad" />
+                  <TableColumn fx:id="colGenero" prefWidth="62.0" text="Género" />
+                  <TableColumn fx:id="colDescripcion" prefWidth="97.0" text="Descripción" />
                   <TableColumn prefWidth="66.0" text="Modificar" />
               </columns>
             </TableView>
             <Label layoutX="64.0" layoutY="35.0" text="Buscar" />
-            <Button layoutX="359.0" layoutY="31.0" mnemonicParsing="false" text="Agregar Artista" />
+            <Button fx:id="registrarArtista" layoutX="359.0" layoutY="31.0" mnemonicParsing="false" onAction="#registrarArtista" text="Agregar Artista" />
             <TextField layoutX="124.0" layoutY="31.0" prefHeight="25.0" prefWidth="220.0" />
          </children>
       </Pane>

@@ -7,7 +7,6 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-
 <AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="BaulDeLosRecuerdosUI.tl.RegistrarAlbumController">
    <children>
       <Label layoutX="187.0" layoutY="26.0" text="El Baúl de los Recuerdos">
@@ -21,12 +20,12 @@
             <Label layoutX="14.0" layoutY="72.0" text="Fecha de lanzamiento" />
             <Label layoutX="14.0" layoutY="117.0" text="Agregar artista(s)" />
             <Label layoutX="15.0" layoutY="233.0" text="Imagen" />
-            <TextField layoutX="152.0" layoutY="24.0" />
-            <DatePicker layoutX="152.0" layoutY="68.0" />
-            <TextArea layoutX="152.0" layoutY="142.0" prefHeight="76.0" prefWidth="149.0" />
-            <ComboBox layoutX="151.0" layoutY="113.0" prefWidth="150.0" />
-            <Button layoutX="156.0" layoutY="229.0" mnemonicParsing="false" text="Subir imagen" />
-            <Button fx:id="btnRegistrarAlbum" layoutX="156.0" layoutY="277.0" mnemonicParsing="false" text="Registrar álbum" />
+            <TextField fx:id="txtNombre" layoutX="152.0" layoutY="24.0" />
+            <DatePicker fx:id="dtpFechaLanzamiento" layoutX="152.0" layoutY="68.0" />
+            <TextArea fx:id="txtArtistas" layoutX="152.0" layoutY="142.0" prefHeight="76.0" prefWidth="149.0" />
+            <ComboBox fx:id="cbxArtista" layoutX="151.0" layoutY="113.0" prefWidth="150.0" />
+            <Button fx:id="btnImagen" layoutX="156.0" layoutY="229.0" mnemonicParsing="false" onAction="#subirImagen" text="Subir imagen" />
+            <Button fx:id="btnRegistrarAlbum" layoutX="156.0" layoutY="277.0" mnemonicParsing="false" onAction="#registrarAlbum" text="Registrar álbum" />
          </children>
       </Pane>
    </children>
